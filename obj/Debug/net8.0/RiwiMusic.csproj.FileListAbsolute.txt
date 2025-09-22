@@ -1,0 +1,15 @@
+D:\Docs\C learning\RiwiMusic\RiwiMusic\bin\Debug\net8.0\RiwiMusic.exe
+D:\Docs\C learning\RiwiMusic\RiwiMusic\bin\Debug\net8.0\RiwiMusic.deps.json
+D:\Docs\C learning\RiwiMusic\RiwiMusic\bin\Debug\net8.0\RiwiMusic.runtimeconfig.json
+D:\Docs\C learning\RiwiMusic\RiwiMusic\bin\Debug\net8.0\RiwiMusic.dll
+D:\Docs\C learning\RiwiMusic\RiwiMusic\bin\Debug\net8.0\RiwiMusic.pdb
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.AssemblyInfoInputs.cache
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.AssemblyInfo.cs
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.csproj.CoreCompileInputs.cache
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.sourcelink.json
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.dll
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\refint\RiwiMusic.dll
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.pdb
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\RiwiMusic.genruntimeconfig.cache
+D:\Docs\C learning\RiwiMusic\RiwiMusic\obj\Debug\net8.0\ref\RiwiMusic.dll
